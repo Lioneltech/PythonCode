@@ -4,7 +4,7 @@ In details this contains my bootcamp projects and scripts making up my Python po
 
 
 
-# Project 1: Using Crypto Api and Script Automation in Python
+## Project 1: Using Crypto Api and Script Automation in Python
 
 This project is about how i used a Crypto platform API to collect data and clean then visualized the Percentage change of different crypto prices in a day and Also the Top 20 Crypto Marketcap.
 
