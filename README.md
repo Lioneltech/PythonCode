@@ -15,7 +15,7 @@ This project is focused on data manipulation. I performed operations such as fil
 
 ## Project 2: Using Crypto Api and Script Automation in Python
 
-This Python code demonstrates how to use a public API in Python to access the latest cryptocurrency data from CoinMarketCap. The code uses the requests library to send a GET request to the CoinMarketCap API, specifying query parameters such as 'start' and 'limit' to filter the results. The response data is then converted from JSON to a Pandas DataFrame to make it easier to work with. The DataFrame is then normalized and a timestamp is added to indicate when the script was run. Finally, the code shows how to automate the API call by creating a function that can be run anytime we need to get the latest cryptocurrency data. The function normalizes the response data, adds a timestamp, and appends the new data to an existing CSV file.
+In this project we demonstrate how we used a public API in Python to access the latest cryptocurrency data from CoinMarketCap. The code uses the requests library to send a GET request to the CoinMarketCap API, specifying query parameters such as 'start' and 'limit' to filter the results. The response data is then converted from JSON to a Pandas DataFrame to make it easier to work with. The DataFrame is then normalized and a timestamp is added to indicate when the script was run. Finally, the code shows how to automate the API call by creating a function that can be run anytime we need to get the latest cryptocurrency data. The function normalizes the response data, adds a timestamp, and appends the new data to an existing CSV file.
 
 ### Data Collection, Manipulation and Visualization: 
 The second project end game was data visualization.
