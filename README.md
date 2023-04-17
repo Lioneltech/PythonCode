@@ -9,15 +9,15 @@ In details this contains my bootcamp projects and scripts making up my Python po
 
 This code is a web scraping script that extracts data from an Amazon product page using Python. The script uses the BeautifulSoup and requests libraries to scrape the data, specifying the data to be extracted using the unique identifiers of the HTML elements. The extracted data is then cleaned and formatted before being saved to a CSV file using the csv and pandas libraries. The resulting dataset can be used for actual analysis in fintech, pharma, or e-commerce, or as a portfolio project.
 
-### Data Manipulation:
-This project is focused on data manipulation. I performed operations such as filtering and sorting the data based on certain conditions. This was done to transform and reshape the data to get insights or prepare it for further analysis.
+### Data cleaning and Manipulation:
+This project is focused on data cleaning and manipulation. I performed operations such as filtering and sorting the data based on certain conditions. This was done to transform and reshape the data to get insights or prepare it for further analysis.
 
 
 ## Project 2: Using Crypto Api and Script Automation in Python
 
 In this project we demonstrate how we used a public API in Python to access the latest cryptocurrency data from CoinMarketCap. The code uses the requests library to send a GET request to the CoinMarketCap API, specifying query parameters such as 'start' and 'limit' to filter the results. The response data is then converted from JSON to a Pandas DataFrame to make it easier to work with. The DataFrame is then normalized and a timestamp is added to indicate when the script was run. Finally, the code shows how to automate the API call by creating a function that can be run anytime we need to get the latest cryptocurrency data. The function normalizes the response data, adds a timestamp, and appends the new data to an existing CSV file.
 
-### Data Collection, Manipulation and Visualization: 
+### Data Collection and Visualization: 
 The second project end game was data visualization.
 
 #### Steps 1: API Calling
